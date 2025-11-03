@@ -50,8 +50,8 @@ My goal is to apply analytical thinking, technical skills, and business acumen t
 ---
 
 ## 📫 How to Reach Me
-- 📧 **Email:** [k.quocchien@gmail.com](mailto:your-email@example.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/your-link](https://www.linkedin.com/in/quoc-chien-kieu/)](https://linkedin.com/in/your-link) 
+- 📧 **Email:** [k.quocchien@gmail.com](mailto:k.quocchien@gmail.com)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/quoc-chien-kieu/](https://www.linkedin.com/in/quoc-chien-kieu/)
 
 ---
 
