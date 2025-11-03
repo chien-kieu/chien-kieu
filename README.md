@@ -55,10 +55,4 @@ My goal is to apply analytical thinking, technical skills, and business acumen t
 
 ---
 
-## 📈 GitHub Stats
-![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
-
 ⭐️ *“Turning data into actionable insights and ideas that drive better decisions.”*
