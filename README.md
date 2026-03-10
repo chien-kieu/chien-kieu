@@ -54,11 +54,11 @@
 ![ABS Data](https://img.shields.io/badge/ABS-Official%20Data-green?style=flat)
 
 > Interactive 3-page Power BI dashboard analysing NT workforce trends  
-> and skilled migration impact using ABS Labour Force data (1996–2022)
+> and skilled migration impact using ABS Labour Force data (1996–2025)
 
 | Metric | Value |
 |--------|-------|
-| 📈 Workforce Growth | +35% from 2000–2022 |
+| 📈 Workforce Growth | +35% from 2000–2025 |
 | 📉 Unemployment Rate | 4.51% |
 | 🌏 Top Migrant Region | North-West Europe & South-East Asia |
 | 👥 Born in Australia | 74.6% of NT workforce |
