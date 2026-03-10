@@ -19,8 +19,7 @@
 - 🎓 **Master of IT** — Charles Darwin University (2025)
 - 💼 **4+ years** engineering experience at **Bosch** & **DEK Technologies**
 - 🏆 **IT Code Fair 2025** — Honourable Mention, Coding Competition (NT Government sponsored)
-- 🌏 Active contributor to Darwin's multicultural community (VSA & AVFA)
-- 🔍 Currently building a data analytics portfolio focused on **NT Government datasets**
+- 🌏 Active contributor to Darwin's multicultural community
 
 ---
 
