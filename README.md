@@ -101,18 +101,10 @@ despite having 3x smaller population — critical resource allocation challenge.
 ## 🏆 Certifications
 
 | 📜 Certificate | 🏢 Issuer |
-|---------------|-----------|---------|
+|---------------|-----------|
 | Career Essentials in Data Analytics | Microsoft & LinkedIn Learning |
 | Complete Guide to Power BI for Data Analysts | Microsoft Press & LinkedIn |
 | Excel: Managing and Analyzing Data | LinkedIn Learning |
-
----
-
-## 🌱 Currently Working On
-
-- 📊 Expanding Power BI portfolio with NT Government datasets
-- 🐍 Building Python EDA projects with Pandas & Matplotlib  
-- ☁️ Learning Azure Data Services for cloud analytics
 
 ---
 
