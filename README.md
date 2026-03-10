@@ -101,23 +101,11 @@ despite having 3x smaller population — critical resource allocation challenge.
 
 ## 🏆 Certifications
 
-| 📜 Certificate | 🏢 Issuer | 📅 Date |
+| 📜 Certificate | 🏢 Issuer |
 |---------------|-----------|---------|
-| Career Essentials in Data Analytics | Microsoft & LinkedIn Learning | Mar 2026 |
-| Complete Guide to Power BI for Data Analysts | Microsoft Press & LinkedIn | Mar 2026 |
-| Excel: Managing and Analyzing Data | LinkedIn Learning | Mar 2026 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nolan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chien-kieu&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chien-kieu&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+| Career Essentials in Data Analytics | Microsoft & LinkedIn Learning |
+| Complete Guide to Power BI for Data Analysts | Microsoft Press & LinkedIn |
+| Excel: Managing and Analyzing Data | LinkedIn Learning |
 
 ---
 
@@ -126,7 +114,6 @@ despite having 3x smaller population — critical resource allocation challenge.
 - 📊 Expanding Power BI portfolio with NT Government datasets
 - 🐍 Building Python EDA projects with Pandas & Matplotlib  
 - ☁️ Learning Azure Data Services for cloud analytics
-- 📝 Applying for NT Government Graduate Program 2027
 
 ---
 
